@@ -1,0 +1,21 @@
+* {
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+p {
+  background-color: rgb(255, 192, 203);
+}
+
+#two {
+  font-size: 36px;
+  color: rgb(0, 0, 255);
+}
+
+.boldness#four {
+  font-weight: bold;
+  background-color: rgb(0, 128, 0);
+}
+
+.boldness {
+  font-size: 25px;
+}
