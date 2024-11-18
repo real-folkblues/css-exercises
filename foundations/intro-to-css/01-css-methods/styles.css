@@ -1,0 +1,16 @@
+body {
+  font-family: serif;
+}
+
+.red-title {
+  background-color: red;
+  font-size: 32px;
+  text-align: center;
+  color: white;
+}
+
+.content {
+  background-color: green;
+  font-size: 18px;
+  color: white;
+}
